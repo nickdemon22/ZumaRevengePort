@@ -1,0 +1,1381 @@
+﻿
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\WidgetManager.cs(345,4): error 
+CS0118: "Graphics" ╤П╨▓╨╗╤П╨╡╤В╤Б╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜, ╨╜╨╛ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╡╤В╤Б╤П ╨║╨░╨║ ╤В╨╕╨┐. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\WidgetContainer.cs(169,5): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Common.cs(987,38): error CS1503: 
+╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "bool". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\JeffLib\Common.cs(192,37): error CS0117: 
+"Common" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "RIGHT_BUTTON". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\JeffLib\Common.cs(192,79): error CS0117: 
+"Common" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "DOUBLE_RIGHT_BUTTON". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(421,
+38): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.ClearOptions". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\PopAnim.cs(2472,35): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-1158669996" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(515,
+36): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ 
+"SexyFramework.Graphics.Graphics3D.ETestResultFunc" ╨▓ "Microsoft.Xna.Framework.Graphics.StencilOperation". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(516,
+36): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ 
+"SexyFramework.Graphics.Graphics3D.ETestResultFunc" ╨▓ "Microsoft.Xna.Framework.Graphics.StencilOperation". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\TextManager.cs(29,65): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "SexyFramework.Misc.Localization.LanguageType" ╨▓ "int". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\PopAnim.cs(229,50): error CS0165: 
+╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(812,
+23): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ 
+"Microsoft.Xna.Framework.Vector4" ╨▓ "SexyFramework.Graphics.Color". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1110
+,41): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.DisplayOrientation". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1119
+,43): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1120
+,43): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1121
+,46): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1122
+,46): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1123
+,41): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1124
+,41): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1186
+,31): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.FillMode". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1187
+,31): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CullMode". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1319
+,77): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\PopAnim.cs(857,7): error CS0201: ╨Т 
+╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П 
+╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, ╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ 
+╨╛╨▒╤К╨╡╨║╤В╨░ [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1547
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.SurfaceFormat". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1551
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.SurfaceFormat". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1569
+,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.SurfaceFormat". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1571
+,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.SurfaceFormat". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1583
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1585
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1587
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1589
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1591
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1593
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1595
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1599
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1609
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1613
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1615
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1617
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1619
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1624
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1626
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1628
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1632
+,13): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1767
+,22): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.PrimitiveType". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1777
+,23): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.PrimitiveType". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1809
+,21): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.PrimitiveType". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1819
+,22): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.PrimitiveType". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\MainMenu.cs(225,11): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Widget.ImagePredrawResult". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(142,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(145,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(148,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(151,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(154,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(157,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(160,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(163,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(166,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(169,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(172,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Gun.cs(51,11): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Widget.ImagePredrawResult". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(159,8): error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" 
+╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "ButtonState" ╨╕ "int". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(192,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "Microsoft.Xna.Framework.Input.Touch.TouchLocationState". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(193,39): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework._TouchPhase". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(197,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "Microsoft.Xna.Framework.Input.Touch.TouchLocationState". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(201,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "Microsoft.Xna.Framework.Input.Touch.TouchLocationState". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(202,39): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework._TouchPhase". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(224,8): error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" 
+╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "DisplayOrientation" ╨╕ "int". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\PopAnim.cs(2327,58): error CS1620: 
+╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LoadingScreen.cs(924,7): error CS0201: ╨Т 
+╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П 
+╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, ╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ 
+╨╛╨▒╤К╨╡╨║╤В╨░ [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LoadingScreen.cs(950,38): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 
+2: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Graphics.Graphics3D.EPrimitiveType". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Common.cs(30,38): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "bool". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Common.cs(42,38): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "bool". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\DDS.cs(212,42): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\DDS.cs(214,54): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Credits.cs(68,9): error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" 
+╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "XMLElement.XMLElementType" ╨╕ "int". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Credits.cs(76,11): error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" 
+╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "XMLElement.XMLElementType" ╨╕ "int". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(956,5): error CS0201: ╨Т ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ 
+╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П ╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, 
+╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ ╨╛╨▒╤К╨╡╨║╤В╨░ 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Common.cs(924,118): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "ref". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Common.cs(925,131): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "ref". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(1289,64): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2092,53): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2092,62): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 4 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2157,53): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2157,62): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 4 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2157,53): error CS0165: 
+╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "num", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ ╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ 
+╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2157,62): error CS0165: 
+╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "num2", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ ╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ 
+╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Gun.cs(1942,48): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Graphics.Graphics3D.EPrimitiveType". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ChallengeMenu.cs(630,11): error CS0266: ╨Э╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Widget.ImagePredrawResult". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Gun.cs(3441,65): error CS0103: ╨Ш╨╝╤П "NumberStyles" ╨╜╨╡ 
+╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╤В╨╡╨║╤Г╤Й╨╡╨╝ ╨║╨╛╨╜╤В╨╡╨║╤Б╤В╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Gun.cs(3850,23): error CS7036: ╨Ю╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В 
+╨░╤А╨│╤Г╨╝╨╡╨╜╤В, ╤Б╨╛╨╛╤В╨▓╨╡╤В╤Б╤В╨▓╤Г╤О╤Й╨╕╨╣ ╤В╤А╨╡╨▒╤Г╨╡╨╝╨╛╨╝╤Г ╨┐╨░╤А╨░╨╝╨╡╤В╤А╤Г "theZ" ╨╕╨╖ 
+"SexyVector3.SexyVector3(float, float, float)". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\BerserkModifier.cs(60,20): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 
+1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "string" ╨▓ "System.ReadOnlySpan<byte>". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\BerserkModifier.cs(60,94): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 
+4 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(137,26): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(151,22): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(162,23): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(166,23): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(168,22): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(181,22): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(190,23): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(203,24): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(233,24): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(278,25): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(282,25): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(373,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(375,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(377,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(379,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(381,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(383,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(385,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(387,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(389,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(391,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(393,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(395,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(397,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(399,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(401,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(403,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(405,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(407,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(409,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Sound\XSoundInstance.cs(103,8): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "SoundState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Sound\XSoundInstance.cs(159,27): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "SoundState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(129,32): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(51,5): error CS0118: 
+"Widget" ╤П╨▓╨╗╤П╨╡╤В╤Б╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜, ╨╜╨╛ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╡╤В╤Б╤П ╨║╨░╨║ ╤В╨╕╨┐. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(273,123): 
+error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "!=" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" 
+╨╕ "int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(349,58): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "!=" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(366,32): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(371,13): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\File\StorageFile.cs(380,34): error CS1503: 
+╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "System.IO.SeekOrigin". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1343,79): error CS0165: 
+╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1413,11): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1442,11): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1451,26): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1461,26): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(119,21): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "string" ╨▓ 
+"System.ReadOnlySpan<byte>". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(119,111): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 4 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(123,18): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "string" ╨▓ 
+"System.ReadOnlySpan<byte>". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(123,54): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(811,53): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(835,56): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator3", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(855,52): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator4", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(1644,4): error 
+CS0201: ╨Т ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П 
+╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, ╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ 
+╨╛╨▒╤К╨╡╨║╤В╨░ [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Board.cs(4694,11): error CS0117: "Buffer" ╨╜╨╡ 
+╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "SetByte". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Board.cs(4718,5): error CS0201: ╨Т ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ 
+╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П ╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, 
+╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ ╨╛╨▒╤К╨╡╨║╤В╨░ 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(1932,53): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(1945,53): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator2", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Misc\SexyLocale.cs(94,54): error CS0023: 
+╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "-" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "ulong". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Misc\Buffer.cs(93,58): error CS0266: ╨Э╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "byte". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ 
+╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Misc\Buffer.cs(116,58): error CS0266: ╨Э╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "byte". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ 
+╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Misc\Buffer.cs(148,19): error CS1503: 
+╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "byte". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Board.cs(7330,35): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Graphics.Graphics3D.EPrimitiveType". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Board.cs(7943,25): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.ECURSOR". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\PIEffect.cs(362,19): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(551,57): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(551,57): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "result", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(582,54): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(584,49): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(582,54): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "dictionary", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\GlobalPIEffect.cs(57,154): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\PIEffect.cs(1816,37): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\PIEffect.cs(1900,37): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\Graphics.cs(1504,28): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\Graphics.cs(1504,57): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1066,55): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\Graphics.cs(1627,28): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\Graphics.cs(1627,57): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1165,63): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "char". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1167,27): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "char". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1172,63): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "char". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1174,27): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "char". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\CharDataHashTable.cs(20,51): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\CharDataHashTable.cs(20,51): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "result", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\WidgetManager.cs(345,4): error 
+CS0118: "Graphics" ╤П╨▓╨╗╤П╨╡╤В╤Б╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜, ╨╜╨╛ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╡╤В╤Б╤П ╨║╨░╨║ ╤В╨╕╨┐. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\WidgetContainer.cs(169,5): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Common.cs(987,38): error CS1503: 
+╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "bool". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\JeffLib\Common.cs(192,37): error CS0117: 
+"Common" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "RIGHT_BUTTON". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\JeffLib\Common.cs(192,79): error CS0117: 
+"Common" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "DOUBLE_RIGHT_BUTTON". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(421,
+38): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.ClearOptions". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\PopAnim.cs(2472,35): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-1158669996" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(515,
+36): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ 
+"SexyFramework.Graphics.Graphics3D.ETestResultFunc" ╨▓ "Microsoft.Xna.Framework.Graphics.StencilOperation". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(516,
+36): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ 
+"SexyFramework.Graphics.Graphics3D.ETestResultFunc" ╨▓ "Microsoft.Xna.Framework.Graphics.StencilOperation". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\TextManager.cs(29,65): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "SexyFramework.Misc.Localization.LanguageType" ╨▓ "int". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\PopAnim.cs(229,50): error CS0165: 
+╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(812,
+23): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ 
+"Microsoft.Xna.Framework.Vector4" ╨▓ "SexyFramework.Graphics.Color". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1110
+,41): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.DisplayOrientation". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1119
+,43): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1120
+,43): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1121
+,46): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1122
+,46): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1123
+,41): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1124
+,41): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1186
+,31): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.FillMode". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1187
+,31): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CullMode". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1319
+,77): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\PopAnim.cs(857,7): error CS0201: ╨Т 
+╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П 
+╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, ╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ 
+╨╛╨▒╤К╨╡╨║╤В╨░ [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1547
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.SurfaceFormat". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1551
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.SurfaceFormat". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1569
+,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.SurfaceFormat". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1571
+,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.SurfaceFormat". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1583
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1585
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1587
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1589
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1591
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1593
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1595
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1599
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.CompareFunction". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1609
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1613
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1615
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1617
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1619
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1624
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1626
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1628
+,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1632
+,13): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.Blend". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1767
+,22): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.PrimitiveType". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1777
+,23): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.PrimitiveType". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1809
+,21): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.PrimitiveType". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Drivers\Graphics\BaseXNARenderDevice.cs(1819
+,22): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ 
+"Microsoft.Xna.Framework.Graphics.PrimitiveType". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ 
+(╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\MainMenu.cs(225,11): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Widget.ImagePredrawResult". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(142,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(145,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(148,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(151,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(154,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(157,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(160,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(163,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(166,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(169,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LegalInfo.cs(172,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Misc.Localization.LanguageType". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Gun.cs(51,11): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Widget.ImagePredrawResult". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(159,8): error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" 
+╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "ButtonState" ╨╕ "int". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(192,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "Microsoft.Xna.Framework.Input.Touch.TouchLocationState". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(193,39): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework._TouchPhase". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(197,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "Microsoft.Xna.Framework.Input.Touch.TouchLocationState". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(201,12): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "Microsoft.Xna.Framework.Input.Touch.TouchLocationState". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(202,39): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework._TouchPhase". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameMain.cs(224,8): error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" 
+╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "DisplayOrientation" ╨╕ "int". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Widget\PopAnim.cs(2327,58): error CS1620: 
+╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LoadingScreen.cs(924,7): error CS0201: ╨Т 
+╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П 
+╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, ╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ 
+╨╛╨▒╤К╨╡╨║╤В╨░ [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\LoadingScreen.cs(950,38): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 
+2: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Graphics.Graphics3D.EPrimitiveType". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Common.cs(30,38): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "bool". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Common.cs(42,38): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "bool". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\DDS.cs(212,42): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\DDS.cs(214,54): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Credits.cs(68,9): error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" 
+╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "XMLElement.XMLElementType" ╨╕ "int". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Credits.cs(76,11): error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" 
+╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "XMLElement.XMLElementType" ╨╕ "int". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(956,5): error CS0201: ╨Т ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ 
+╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П ╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, 
+╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ ╨╛╨▒╤К╨╡╨║╤В╨░ 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Common.cs(924,118): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "ref". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Common.cs(925,131): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "ref". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(1289,64): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2092,53): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2092,62): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 4 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2157,53): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 3 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2157,62): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 4 
+╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2157,53): error CS0165: 
+╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "num", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ ╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ 
+╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\GameApp.cs(2157,62): error CS0165: 
+╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "num2", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ ╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ 
+╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Gun.cs(1942,48): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Graphics.Graphics3D.EPrimitiveType". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ChallengeMenu.cs(630,11): error CS0266: ╨Э╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Widget.ImagePredrawResult". 
+╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ 
+╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Gun.cs(3441,65): error CS0103: ╨Ш╨╝╤П "NumberStyles" ╨╜╨╡ 
+╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╤В╨╡╨║╤Г╤Й╨╡╨╝ ╨║╨╛╨╜╤В╨╡╨║╤Б╤В╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Gun.cs(3850,23): error CS7036: ╨Ю╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В 
+╨░╤А╨│╤Г╨╝╨╡╨╜╤В, ╤Б╨╛╨╛╤В╨▓╨╡╤В╤Б╤В╨▓╤Г╤О╤Й╨╕╨╣ ╤В╤А╨╡╨▒╤Г╨╡╨╝╨╛╨╝╤Г ╨┐╨░╤А╨░╨╝╨╡╤В╤А╤Г "theZ" ╨╕╨╖ 
+"SexyVector3.SexyVector3(float, float, float)". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\BerserkModifier.cs(60,20): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 
+1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "string" ╨▓ "System.ReadOnlySpan<byte>". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\BerserkModifier.cs(60,94): error CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 
+4 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(137,26): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(151,22): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(162,23): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(166,23): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(168,22): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(181,22): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(190,23): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(203,24): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(233,24): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(278,25): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(282,25): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: 
+╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(373,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(375,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(377,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(379,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(381,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(383,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(385,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(387,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(389,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(391,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(393,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(395,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(397,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(399,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(401,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(403,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(405,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(407,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\AutoMonkey.cs(409,9): error CS0266: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П 
+╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "SexyFramework.Drivers.GamepadButton". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В 
+╤П╨▓╨╜╨╛╨╡ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Sound\XSoundInstance.cs(103,8): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "SoundState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Sound\XSoundInstance.cs(159,27): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "SoundState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(129,32): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(51,5): error CS0118: 
+"Widget" ╤П╨▓╨╗╤П╨╡╤В╤Б╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜, ╨╜╨╛ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╡╤В╤Б╤П ╨║╨░╨║ ╤В╨╕╨┐. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(273,123): 
+error CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "!=" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" 
+╨╕ "int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(349,58): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "!=" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(366,32): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SoundEffectMusicInterface.cs(371,13): error 
+CS0019: ╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "==" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "MediaState" ╨╕ 
+"int". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\File\StorageFile.cs(380,34): error CS1503: 
+╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "System.IO.SeekOrigin". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1343,79): error CS0165: 
+╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1413,11): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1442,11): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1451,26): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\SexyAppBase.cs(1461,26): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(119,21): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "string" ╨▓ 
+"System.ReadOnlySpan<byte>". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(119,111): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 4 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(123,18): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "string" ╨▓ 
+"System.ReadOnlySpan<byte>". [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(123,54): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(811,53): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(835,56): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator3", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(855,52): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator4", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(1644,4): error 
+CS0201: ╨Т ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П 
+╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, ╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ 
+╨╛╨▒╤К╨╡╨║╤В╨░ [C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Board.cs(4694,11): error CS0117: "Buffer" ╨╜╨╡ 
+╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "SetByte". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Board.cs(4718,5): error CS0201: ╨Т ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ 
+╨╛╨┐╨╡╤А╨░╤В╨╛╤А╨░ ╨╝╨╛╨│╤Г╤В ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╤М╤Б╤П ╤В╨╛╨╗╤М╨║╨╛ ╨▓╤Л╤А╨░╨╢╨╡╨╜╨╕╤П ╨╜╨░╨╖╨╜╨░╤З╨╡╨╜╨╕╤П, 
+╨▓╤Л╨╖╨╛╨▓╨░, ╨╕╨╜╨║╤А╨╡╨╝╨╡╨╜╤В╨░, ╨┤╨╡╨║╤А╨╡╨╝╨╡╨╜╤В╨░ ╨╕ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╜╨╛╨▓╨╛╨│╨╛ ╨╛╨▒╤К╨╡╨║╤В╨░ 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(1932,53): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Resource\ResourceManager.cs(1945,53): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator2", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Misc\SexyLocale.cs(94,54): error CS0023: 
+╨Ю╨┐╨╡╤А╨░╤В╨╛╤А "-" ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╨║ ╨╛╨┐╨╡╤А╨░╨╜╨┤╤Г ╤В╨╕╨┐╨░ "ulong". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Misc\Buffer.cs(93,58): error CS0266: ╨Э╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "byte". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ 
+╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Misc\Buffer.cs(116,58): error CS0266: ╨Э╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨╜╨╡╤П╨▓╨╜╨╛ ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╤В╨╕╨┐ "int" ╨▓ "byte". ╨б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╤П╨▓╨╜╨╛╨╡ 
+╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨╛ ╨┐╤А╨╕╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╤В╨╕╨┐╨╛╨▓). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Misc\Buffer.cs(148,19): error CS1503: 
+╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "byte". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Board.cs(7330,35): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.Graphics.Graphics3D.EPrimitiveType". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\Board.cs(7943,25): error CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ 
+╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "SexyFramework.ECURSOR". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\PIEffect.cs(362,19): error CS0221: 
+╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ "ulong" 
+(╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(551,57): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(551,57): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "result", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(582,54): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(584,49): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\ImageFont.cs(582,54): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "dictionary", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\GlobalPIEffect.cs(57,154): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\PIEffect.cs(1816,37): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\PIEffect.cs(1900,37): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\Graphics.cs(1504,28): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\Graphics.cs(1504,57): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1066,55): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "enumerator", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\Graphics.cs(1627,28): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\Graphics.cs(1627,57): error 
+CS0221: ╨Я╨╛╤Б╤В╨╛╤П╨╜╨╜╨╛╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡ "-16777216" ╨╜╨╡ ╨╝╨╛╨╢╨╡╤В ╨▒╤Л╤В╤М ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╨╜╨╛ ╨▓ 
+"ulong" (╨┤╨╗╤П ╨┐╨╡╤А╨╡╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ ╤Б╨╕╨╜╤В╨░╨║╤Б╨╕╤Б "unchecked"). 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1165,63): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "char". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1167,27): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "char". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1172,63): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 1: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "char". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\FontData.cs(1174,27): error 
+CS1503: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨┐╤А╨╡╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╤М ╨╕╨╖ "int" ╨▓ "char". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\CharDataHashTable.cs(20,51): error 
+CS1620: ╨Р╤А╨│╤Г╨╝╨╡╨╜╤В 2 ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨┤╨░╨▓╨░╤В╤М╤Б╤П ╤Б ╨║╨╗╤О╤З╨╡╨▓╤Л╨╝ ╤Б╨╗╨╛╨▓╨╛╨╝ "out". 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\SexyFramework\Graphics\CharDataHashTable.cs(20,51): error 
+CS0165: ╨Ш╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤М╨╜╨╛╨╣ ╨┐╨╡╤А╨╡╨╝╨╡╨╜╨╜╨╛╨╣ "result", ╨║╨╛╤В╨╛╤А╨╛╨╣ ╨╜╨╡ 
+╨┐╤А╨╕╤Б╨▓╨╛╨╡╨╜╨╛ ╨╖╨╜╨░╤З╨╡╨╜╨╕╨╡. 
+[C:\Users\User\source\repos\ZumasRevengePort\ZumasRevengePort\ZumasRevengePort.csproj]
+
+

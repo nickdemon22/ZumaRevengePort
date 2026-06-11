@@ -1,0 +1,39 @@
+﻿using System;
+
+namespace ZumasRevenge.Achievement
+{
+	// Token: 0x02000046 RID: 70
+	public enum EAchievementType
+	{
+		// Token: 0x0400111E RID: 4382
+		FE_RROG,
+		// Token: 0x0400111F RID: 4383
+		CHALLENGE_ACCEPTED,
+		// Token: 0x04001120 RID: 4384
+		FROZEN_FROG,
+		// Token: 0x04001121 RID: 4385
+		POWER_PLAYER,
+		// Token: 0x04001122 RID: 4386
+		C_C_C_C_CHAIN_BONUS,
+		// Token: 0x04001123 RID: 4387
+		THREAD_THE_NEEDLE,
+		// Token: 0x04001124 RID: 4388
+		TIME_FOR_TADPOLES,
+		// Token: 0x04001125 RID: 4389
+		YOU_WIN,
+		// Token: 0x04001126 RID: 4390
+		CEPHALOPOD_SMASHE,
+		// Token: 0x04001127 RID: 4391
+		PESTILENCE_PACIFIER,
+		// Token: 0x04001128 RID: 4392
+		BONE_PICKER,
+		// Token: 0x04001129 RID: 4393
+		TIKI_TRAMPLER,
+		// Token: 0x0400112A RID: 4394
+		JAW_BREAKER,
+		// Token: 0x0400112B RID: 4395
+		FROG_STATUE,
+		// Token: 0x0400112C RID: 4396
+		ACHIEVEMENT_TOTAL
+	}
+}

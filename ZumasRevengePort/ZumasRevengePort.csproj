@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFrameworks>net6.0-windows;net6.0</TargetFrameworks>
+		<LangVersion>10</LangVersion>
+		<RollForward>Major</RollForward>
+		<PublishReadyToRun>false</PublishReadyToRun>
+		<TieredCompilation>false</TieredCompilation>
+		<RuntimeIdentifiers>win-x64;win-x86;win-arm</RuntimeIdentifiers>
+		<AssemblyName>ZumasRevengeApp</AssemblyName>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+		<ApplicationIcon>Zuma's Revenge!.ico</ApplicationIcon>
+	</PropertyGroup>
+
+	<!-- PC: DirectX (Visual Studio / x64 / x86) -->
+	<PropertyGroup Condition="'$(TargetFramework)' == 'net6.0-windows'">
+		<UseWindowsForms>true</UseWindowsForms>
+		<MonoGamePlatform>Windows</MonoGamePlatform>
+	</PropertyGroup>
+
+	<!-- Surface RT / win-arm: OpenGL (WindowsDX + win-arm is not supported by .NET SDK) -->
+	<PropertyGroup Condition="'$(TargetFramework)' == 'net6.0'">
+		<MonoGamePlatform>DesktopGL</MonoGamePlatform>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="Icon.ico" />
+		<None Remove="Zuma's Revenge!.ico" />
+		<None Remove="Icon.bmp" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Zuma's Revenge!.ico">
+			<LogicalName>Icon.ico</LogicalName>
+		</EmbeddedResource>
+		<EmbeddedResource Include="Icon.bmp">
+			<LogicalName>Icon.bmp</LogicalName>
+		</EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="Zuma's Revenge!.ico">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="Content\text\*.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<Link>Content\text\%(Filename)%(Extension)</Link>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup Condition="'$(TargetFramework)' == 'net6.0-windows'">
+		<PackageReference Include="MonoGame.Framework.WindowsDX" Version="3.8.1.303" />
+		<PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.1.303" />
+	</ItemGroup>
+
+	<ItemGroup Condition="'$(TargetFramework)' == 'net6.0'">
+		<PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303" />
+		<PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.1.303" />
+	</ItemGroup>
+
+	<!-- Положите полную папку Content из игры в GameAssets\Content — она скопируется в выходную папку при сборке -->
+	<ItemGroup>
+		<None Include="GameAssets\Content\**\*" Condition="Exists('GameAssets\Content')">
+			<Link>Content\%(RecursiveDir)%(Filename)%(Extension)</Link>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+	<Target Name="RestoreDotnetTools" BeforeTargets="CollectPackageReferences">
+		<Message Text="Restoring dotnet tools..." Importance="High" />
+		<Exec Command="dotnet tool restore" />
+	</Target>
+</Project>

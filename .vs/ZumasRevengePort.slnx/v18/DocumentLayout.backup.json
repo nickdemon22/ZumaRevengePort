@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|c:\\users\\user\\source\\repos\\zumasrevengeport\\zumasrevengeport\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|solutionrelative:zumasrevengeport\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|c:\\users\\user\\source\\repos\\zumasrevengeport\\zumasrevengeport\\zumasrevengeport.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|solutionrelative:zumasrevengeport\\zumasrevengeport.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|c:\\users\\user\\source\\repos\\zumasrevengeport\\zumasrevengeport\\zumasrevengeport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|solutionrelative:zumasrevengeport\\zumasrevengeport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|c:\\users\\user\\source\\repos\\zumasrevengeport\\zumasrevengeport\\gameapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|solutionrelative:zumasrevengeport\\gameapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|c:\\users\\user\\source\\repos\\zumasrevengeport\\zumasrevengeport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|solutionrelative:zumasrevengeport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\9d54a2ea6e79ac7bd8dce5e36ffd7a1d59d3fd77ed6324469fec318e68bbd8b2\\ContentTypeReaderManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\SourceServer\\c08ec374f37e2e377514f9cf7e29f688ae949411b1f8affe30e553b4cea635d4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Resources\\ManifestBasedResourceGroveler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|c:\\users\\user\\source\\repos\\zumasrevengeport\\zumasrevengeport\\appresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|solutionrelative:zumasrevengeport\\appresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|c:\\users\\user\\source\\repos\\zumasrevengeport\\zumasrevengeport\\sexyframework\\misc\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F36DC1-0ED2-CBE6-8AED-6F4EC4DACE80}|ZumasRevengePort\\ZumasRevengePort.csproj|solutionrelative:zumasrevengeport\\sexyframework\\misc\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\SourceServer\\35c004d375482d3d8bb2447ade163eb81fd873ada0d093f1099ac8e1fef4dbbe\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\AssemblyNameParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZumasRevengePort.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\ZumasRevengePort.csproj",
+              "RelativeDocumentMoniker": "ZumasRevengePort\\ZumasRevengePort.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\ZumasRevengePort.csproj",
+              "RelativeToolTip": "ZumasRevengePort\\ZumasRevengePort.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-04T20:06:22.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMain.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\GameMain.cs",
+              "RelativeDocumentMoniker": "ZumasRevengePort\\GameMain.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\GameMain.cs",
+              "RelativeToolTip": "ZumasRevengePort\\GameMain.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:18:31.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZumasRevengePort",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\ZumasRevengePort.csproj",
+              "RelativeDocumentMoniker": "ZumasRevengePort\\ZumasRevengePort.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\ZumasRevengePort.csproj",
+              "RelativeToolTip": "ZumasRevengePort\\ZumasRevengePort.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-04T18:47:40.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyNameParser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\SourceServer\\35c004d375482d3d8bb2447ade163eb81fd873ada0d093f1099ac8e1fef4dbbe\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\AssemblyNameParser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\35c004d375482d3d8bb2447ade163eb81fd873ada0d093f1099ac8e1fef4dbbe\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\AssemblyNameParser.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\SourceServer\\35c004d375482d3d8bb2447ade163eb81fd873ada0d093f1099ac8e1fef4dbbe\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\AssemblyNameParser.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\35c004d375482d3d8bb2447ade163eb81fd873ada0d093f1099ac8e1fef4dbbe\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\AssemblyNameParser.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAIwLMBAAAuAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T18:29:03.018Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\SexyFramework\\Misc\\Point.cs",
+              "RelativeDocumentMoniker": "ZumasRevengePort\\SexyFramework\\Misc\\Point.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\SexyFramework\\Misc\\Point.cs",
+              "RelativeToolTip": "ZumasRevengePort\\SexyFramework\\Misc\\Point.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T18:01:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppResources.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\AppResources.cs",
+              "RelativeDocumentMoniker": "ZumasRevengePort\\AppResources.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\AppResources.cs",
+              "RelativeToolTip": "ZumasRevengePort\\AppResources.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:11:32.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManifestBasedResourceGroveler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\SourceServer\\c08ec374f37e2e377514f9cf7e29f688ae949411b1f8affe30e553b4cea635d4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Resources\\ManifestBasedResourceGroveler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\c08ec374f37e2e377514f9cf7e29f688ae949411b1f8affe30e553b4cea635d4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Resources\\ManifestBasedResourceGroveler.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\SourceServer\\c08ec374f37e2e377514f9cf7e29f688ae949411b1f8affe30e553b4cea635d4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Resources\\ManifestBasedResourceGroveler.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\c08ec374f37e2e377514f9cf7e29f688ae949411b1f8affe30e553b4cea635d4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Resources\\ManifestBasedResourceGroveler.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAWwNkBAAArAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:38:51.035Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\Program.cs",
+              "RelativeDocumentMoniker": "ZumasRevengePort\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\Program.cs",
+              "RelativeToolTip": "ZumasRevengePort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:33:37.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContentTypeReaderManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\9d54a2ea6e79ac7bd8dce5e36ffd7a1d59d3fd77ed6324469fec318e68bbd8b2\\ContentTypeReaderManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9d54a2ea6e79ac7bd8dce5e36ffd7a1d59d3fd77ed6324469fec318e68bbd8b2\\ContentTypeReaderManager.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\9d54a2ea6e79ac7bd8dce5e36ffd7a1d59d3fd77ed6324469fec318e68bbd8b2\\ContentTypeReaderManager.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9d54a2ea6e79ac7bd8dce5e36ffd7a1d59d3fd77ed6324469fec318e68bbd8b2\\ContentTypeReaderManager.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAQwJAAAAAdAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:31:41.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameApp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\GameApp.cs",
+              "RelativeDocumentMoniker": "ZumasRevengePort\\GameApp.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ZumasRevengePort\\ZumasRevengePort\\GameApp.cs",
+              "RelativeToolTip": "ZumasRevengePort\\GameApp.cs",
+              "ViewState": "AgIAAB4LAAAAAAAAAAApwGELAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:28:08.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
